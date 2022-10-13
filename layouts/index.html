@@ -1,0 +1,22 @@
+{{ define "main" }}
+
+{{ $img := resources.Get "images/sphinx_64x98.jpg" }}
+{{ $img_500 := $img.Resize "500x webp" }}
+{{ $img_800 := $img.Resize "800x webp"  }}
+{{ $img_1200 := $img.Resize "1200x webp"  }}
+<p>
+<img
+  srcset="
+    {{ $img_500.RelPermalink }} 500w,
+    {{ $img_800.RelPermalink }} 800w,
+    {{ $img_1200.RelPermalink }} 1200w,
+    {{ $img.RelPermalink }} 3722w
+  "
+  src="{{ $img.RelPermalink }}"
+/></p>
+
+<blockquote class="pl-1 py-4 text-gray-800">
+  <p>Taylor's work is important art, beautiful art</p>
+  <small>James Kelman</small>
+</blockquote>
+{{ end }}
