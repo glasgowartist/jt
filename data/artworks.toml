@@ -1,308 +1,308 @@
 [[artworks]]
-id = "1"
+id = 1
 img = "a_place_of_secrets_72x128.jpg"
 title = "A Place of Secrets"
 dim = "72x128"
 media = "Watercolour"
 [[artworks]]
-id = "2"
+id = 2
 img = "at_the_ebb_2012.jpg"
 title = "At the Ebb"
 year = 2012
 dim = "60x95"
 media = "Watercolour"
 [[artworks]]
-id = "3"
+id = 3
 img = "birch_trees_07.jpg"
 title = "Birch Trees"
 year = 2007
 media = "Watercolour"
 [[artworks]]
-id = "4"
+id = 4
 img = "brave_new_campus_2015.jpg"
 title = "Ever Upwards"
 year = 2015
 dim = "45x61"
 media = "Watercolour"
 [[artworks]]
-id = "5"
+id = 5
 img = "campsie_fells_07.jpg"
 title = "Campsie Fells"
 year = 2007
 media = "Watercolour"
 [[artworks]]
-id = "6"
+id = 6
 img = "chamber_64x98.jpg"
 title = "Chamber"
 dim = ""
 media = "Watercolour"
 [[artworks]]
-id="7"
+id=7
 img = "church_maryhill_2012.jpg"
 title = "Church Maryhill"
 year = 2012
 dim = "45x61"
 media = "Watercolour"
 [[artworks]]
-id = "8"
+id = 8
 img = "citadel_72x128.jpg"
 title = "Citadel"
 dim = "72x128"
 media = "Watercolour"
 [[artworks]]
-id = "9"
+id = 9
 img = "closed_gates_2016.jpg"
 title = "Closed Gates"
 year = 2016
 dim = "45x61"
 media = "Watercolour"
 [[artworks]]
-id = "10"
+id = 10
 img = "college_bar_2014.jpg"
 title = "College Bar"
 year = 2014
 media = "Watercolour"
 [[artworks]]
-id = "11"
+id = 11
 img = "cycle_path_2012.jpg"
 title = "Cycle Path"
 year = 2012
 dim = "58x89"
 media = "Watercolour"
 [[artworks]]
-id = "12"
+id = 12
 img = "deco_70x106.jpg"
 title = "Deco"
 dim = "70x106"
 media = "Watercolour"
 [[artworks]]
-id = "13"
+id = 13
 img = "dunes_and_blue_sky_07.jpg"
 title = "Dunes and Blue Sky"
 year = 2007
 media = "Watercolour"
 [[artworks]]
-id = "14"
+id = 14
 img = "dunes_and_sea_07.jpg"
 title = "Dunes and Sea"
 year = 2007
 media = "Watercolour"
 [[artworks]]
-id = "15"
+id = 15
 img = "dunes_at_evening_07.jpg"
 title = "Dunes at Evening"
 year = 2007
 media = "Watercolour"
 [[artworks]]
-id = "17"
+id = 17
 img = "dunes_distant_mountains_07.jpg"
 title = "Dunes and Distant Mountains"
 year = 2007
 media = "Watercolour"
 [[artworks]]
-id = "18"
+id = 18
 img = "entombed_87.jpg"
 title = "Entombed"
 year = 1987
 media = "Watercolour"
 [[artworks]]
-id = "19"
+id = 19
 img = "figure_in_flight.jpg"
 title = "Figure in Flight"
 year = 1961
 media = "Gouache"
 [[artworks]]
-id = "20"
+id = 20
 img = "figure_in_flight_1961.jpg"
 title = "Figure in Flight"
 year = 1961
 media = "Gouache"
 [[artworks]]
-id = "21"
+id = 21
 img = "george_v_bridge_2012.jpg"
 title = "George V Bridge"
 year = 2012
 dim = "60x95"
 media = "Watercolour"
 [[artworks]]
-id = "22"
+id = 22
 img = "govan_yard_2012.jpg"
 title = "Govan Yard"
 year = 2012
 dim = "61x96"
 media = "Watercolour"
 [[artworks]]
-id = "23"
+id = 23
 img = "gps001.jpg"
 media = "Screenprint"
 [[artworks]]
-id = "24"
+id = 24
 img = "green_isle_82.jpg"
 title = "The Green Isle"
 year = 1982
 media = "Watercolour"
 [[artworks]]
-id = "25"
+id = 25
 img = "green_valley_52x98.jpg"
 title = "Green Valley"
 dim = "52x98"
 media = "Watercolour"
 [[artworks]]
-id = "26"
+id = 26
 img = "haws_and_whins_07.jpg"
 title = "Hawthorn Trees and Whins"
 year = 2007
 media = "Watercolour"
 [[artworks]]
-id = "27"
+id = 27
 img = "high_rise_and_doocot_snow_60x95.jpg"
 title = "High Rise and Doocot in the Snow"
 year = 2013
 dim = "60x95"
 media = "Watercolour"
 [[artworks]]
-id = "28"
+id = 28
 img = "high_rise_and_doocots_2013.jpg"
 title = "High Rise and Doocots"
 year = 2013
 dim = "61x96"
 media = "Watercolour"
 [[artworks]]
-id = "29"
+id = 29
 img = "meeting_point_64x98.jpg"
 title = "Meeting Point"
 dim = "64x98"
 media = "Watercolour"
 [[artworks]]
-id = "30"
+id = 30
 img = "morning_2012.jpg"
 title = "Morning"
 year = 2012
 media = "Watercolour"
 [[artworks]]
-id = "31"
+id = 31
 img = "new_charing_x_gallery_66.jpg"
 title = "Exhibition in the New Charing Cross Gallery"
 year = 1966
 media = "Photograph"
 [[artworks]]
-id = "32"
+id = 32
 img = "oystercatchers.jpg"
 title = "Oystercatchers"
 media = "Watercolour"
 [[artworks]]
-id = "33"
+id = 33
 img = "pylons_canal_2015.jpg"
 title = "Pylons Canal"
 dim = "60x95"
 media = "Watercolour"
 [[artworks]]
-id = "34"
+id = 34
 img = "red_valley_52x98.jpg"
 title = "Red Valley"
 media = "Watercolour"
 [[artworks]]
-id = "35"
+id = 35
 img = "ruchill_doocot_2012.jpg"
 title = "Ruchill Doocot"
 year = 2012
 dim = "61x96"
 media = "Watercolour"
 [[artworks]]
-id = "36"
+id = 36
 img = "rust_never_sleeps_2016.jpg"
 title = "Rust Never Sleeps"
 year = 2016
 media = "Watercolour"
 [[artworks]]
-id = "37"
+id = 37
 img = "shane_2015.jpg"
 title = "Shane"
 year = 2015
 dim = "45x61"
 media = "Watercolour"
 [[artworks]]
-id = "38"
+id = 38
 img = "sphinx_64x98.jpg"
 title = "Sphinx"
 dim = "64x98"
 media = "Watercolour"
 [[artworks]]
-id = "39"
+id = 39
 img = "stretch_72x128.jpg"
 title = "Neon Reds"
 dim = "72x128"
 media = "Watercolour"
 [[artworks]]
-id = "40"
+id = 40
 img = "student_flats_2015.jpg"
 title = "Nicholas Street"
 year = 2015
 dim = "45x58"
 media = "Watercolour"
 [[artworks]]
-id = "41"
+id = 41
 img = "the_market_2016.jpg"
 title = "The Market"
 year = 2016
 dim = "38x56"
 media = "Watercolour"
 [[artworks]]
-id = "42"
+id = 42
 img = "trophy_52x98.jpg"
 title = "Trophy"
 dim = "52x98"
 media = "Watercolour"
 [[artworks]]
-id = "43"
+id = 43
 img = "twb_2015.jpg"
 title = "TWB"
 year = 2015
 dim = "60x95"
 media = "Watercolour"
 [[artworks]]
-id = "44"
+id = 44
 img = "twb_2_2015.jpg"
 title = "TWB 2"
 year = 2015
 dim = "60x95"
 media = "Watercolour"
 [[artworks]]
-id = "45"
+id = 45
 img = "untitled_gouache_61.jpg"
 title = "Untitled"
 year = 1961
 dim = ""
 media = "Gouache"
 [[artworks]]
-id = "46"
+id = 46
 img = "vestiges_87.jpg"
 title = "Vestiges"
 year = 1987
 dim = ""
 media = "Watercolour"
 [[artworks]]
-id = "47"
+id = 47
 img = "view_from_the_bunker_87.jpg"
 title = "The View from the Bunker"
 year = 1987
 dim = ""
 media = "Watercolour"
 [[artworks]]
-id = "48"
+id = 48
 img = "watch_towers_64x98.jpg"
 title = "Watch Towers"
 dim = "64x98"
 media = "Watercolour"
 [[artworks]]
-id = "49"
+id = 49
 img = "wet_day_maryhill_2013.jpg"
 title = "Stirrat Street"
 year = 2013
 dim = "61x56"
 media = "Watercolour"
 [[artworks]]
-id = "50"
+id = 50
 img = "wyndford_high_rise_60x95.jpg"
 title = "Wyndford"
 year = 2012

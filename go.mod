@@ -1,5 +1,7 @@
 module jt
 
-go 1.19
+// replace github.com/glasgowartist/ga-hugo => /home/tekul/code/ga-hugo
 
-require github.com/glasgowartist/ga-hugo v0.0.0-20221009205521-c38d0a19e58b // indirect
+go 1.23
+
+require github.com/glasgowartist/ga-hugo v0.0.0-20240904213452-8667cd9a4db2 // indirect
