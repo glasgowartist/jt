@@ -1,0 +1,16 @@
+.essay h1 {
+  @apply mb-3 text-xl text-gray-600;
+}
+
+.essay p {
+  @apply mb-3 text-lg text-gray-800;
+}
+
+.footnotes {
+  @apply py-2 mb-6;
+}
+
+.footnotes ol {
+  @apply mt-2 ml-5 text-sm text-gray-700;
+  list-style-type: decimal;
+}
