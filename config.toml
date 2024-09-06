@@ -1,6 +1,9 @@
 languageCode = 'en-GB'
 title = 'John Taylor'
 
+# Disable categories and tags
+disableKinds = ["taxonomy", "term", "RSS"]
+
 [params]
   description = "The work of the Glasgow based artist John Taylor"
 
