@@ -308,3 +308,66 @@ title = "Wyndford"
 year = 2012
 dim = "60x95"
 media = "Watercolour"
+[[artworks]]
+id = 51
+img = "a_fathers_tragedy_2022.jpg"
+title = "A Father's Tragedy"
+year = 2022
+dim = "0x0"
+media = "Watercolour"
+[[artworks]]
+id = 52
+img = "aftermath_2022.jpg"
+title = "Aftermath"
+year = 2022
+dim = "0x0"
+media = "Watercolour"
+[[artworks]]
+id = 53
+img = "exodus_2022.jpg"
+title = "Exodus"
+year = 2022
+dim = "0x0"
+media = "Watercolour"
+[[artworks]]
+id = 54
+img = "i_cannot_help_2022.jpg"
+title = "I Cannot Help"
+year = 2022
+dim = "0x0"
+media = "Watercolour"
+[[artworks]]
+id = 55
+img = "in_the_half_light_2022.jpg"
+title = "In the Half Light"
+year = 2022
+dim = "0x0"
+media = "Watercolour"
+[[artworks]]
+id = 56
+img = "made_in_the_uk_2022.jpg"
+title = "Made in the UK"
+year = 2022
+dim = "0x0"
+media = "Watercolour"
+[[artworks]]
+id = 57
+img = "the_blitz_clydebank_2022.jpg"
+title = "The Blitz, Clydebank"
+year = 2022
+dim = "0x0"
+media = "Watercolour"
+[[artworks]]
+id = 58
+img = "the_butchers_apron_2022.jpg"
+title = "The Butcher's Apron"
+year = 2022
+dim = "0x0"
+media = "Watercolour"
+[[artworks]]
+id = 59
+img = "untitled_face_brown_eyes_2022.jpg"
+title = "Untitled"
+year = 2022
+dim = "0x0"
+media = "Watercolour"
